@@ -1,5 +1,5 @@
 # About Me:
-🔭 I'm currently working on AI and data projects, and strengthening my skills in UI and UX <br>👯 I'm looking to collaborate on high-quality projects <br>🤝 I need help finding an internship in either AI/Data or web/mobile development<br>🌱 I’m currently learning Next.js <br>💬 Feel free to ask me questions on LinkedIn<br>⚡ Once, I partied like crazy during my networking prep exams and failed everything 
+🔭 I'm currently working on AI and data projects, and strengthening my skills in UI and UX <br>👯 I'm looking to collaborate on high-quality projects <br>🤝 I need help finding an internship in either AI/Data or web/mobile development<br>🌱 I’m currently learning Next.js <br>💬 Feel free to ask me questions on LinkedIn<br>
 
 
 ## 🌐 Socials:
