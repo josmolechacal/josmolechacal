@@ -53,13 +53,11 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 
 **Backend** :
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 **Frontend** : 
@@ -88,14 +86,16 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7800.svg?style=for-the-badge&logo=matlab&logoColor=white)
+
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=josmolechacal&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=josmolechacal&theme=synthwave&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josmolechacal&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=josmolechacal&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=josmolechacal&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=josmolechacal&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=josmolechacal&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ### 🌐 Connect
 
