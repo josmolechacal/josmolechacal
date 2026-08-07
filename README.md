@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm José Antoine Roland KOUADJO 👋</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="ISGA banner — Building Solutions, Creating Impact" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm José Antoine Roland KOUADJO </h1>
 <h3 align="center">AI / Big Data Engineer in training · Software & Web Developer</h3>
 
 <p align="center">
@@ -6,12 +10,12 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 </p>
 
 <p align="center">
-📍 Fès, Morocco &nbsp;·&nbsp; 🎓 ISGA — Engineering, AI & Big Data (4th year) &nbsp;·&nbsp; 🌱 Currently learning Next.js
+📍 Fès, Morocco &nbsp;·&nbsp; 🎓 ISGA — Engineering, AI & Big Data (4th year - Last year in 2027)&nbsp;·&nbsp;
 </p>
 
 ---
 
-### 🔭 What I'm doing
+###  What I'm doing
 
 - Building AI and Big Data projects — computer vision, facial recognition, data pipelines
 - Practicing backend and frontend development in parallel
@@ -19,7 +23,7 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 - Open to collaborating on high-quality technical projects
 - 💬 Reach me on LinkedIn for any question
 
-### 🚀 Top Projects 
+### My Top Projects 
 
 | Project | What it does | My contribution | Stack |
 |---|---|---|---|
