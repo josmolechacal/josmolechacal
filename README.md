@@ -97,6 +97,7 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 
 ### 🔝 Top Contributed Repo
 |![](https://github-contributor-stats.vercel.app/api?username=josmolechacal&limit=5&theme=cobalt&combine_all_yearly_contributions=true)|
+|---|---|---|
 | [**FaceAttend**](https://github.com/derrickonine/attend) | Real-time facial recognition attendance app for a school | Contributor — camera pipeline, recognition thresholds & matching distances | YOLOv8, OpenCV, Flask, SQLite |
 | [**FaceGuard**](https://github.com/TsioryRasoloarijaona/fake-guard) | Fake news detection platform (AI microservice + MVC app) | Contributor — Cassandra data model, Repository/Unit of Work layer | ASP.NET MVC, Apache Cassandra, Python/Flask |
 | [**Aracana AI**](https://github.com/williamsassa/Aracana) | Space-themed site with interactive 3D animations | Contributor — frontend, design & UX | Next.js, Three.js, Spline |
