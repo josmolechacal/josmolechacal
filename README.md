@@ -28,9 +28,6 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 | Project | What it does | My contribution | Stack |
 |---|---|---|---|
 | [**FaceAttend V2**](https://github.com/josmolechacal/Faces-Recognition-Attendance) | Facial recognition attendance system (in progress) | Owner — built end-to-end | Python, OpenCV, NumPy, iVCam, Conda |
-| [**FaceAttend**](https://github.com/derrickonine/attend) | Real-time facial recognition attendance app for a school | Contributor — camera pipeline, recognition thresholds & matching distances | YOLOv8, OpenCV, Flask, SQLite |
-| [**FaceGuard**](https://github.com/TsioryRasoloarijaona/fake-guard) | Fake news detection platform (AI microservice + MVC app) | Contributor — Cassandra data model, Repository/Unit of Work layer | ASP.NET MVC, Apache Cassandra, Python/Flask |
-| [**Aracana AI**](https://github.com/williamsassa/Aracana) | Space-themed site with interactive 3D animations | Contributor — frontend, design & UX | Next.js, Three.js, Spline |
 | [**Contact Manager**](https://github.com/josmolechacal/Contact-Manager-Android) | Android contact management app | Owner — built end-to-end | Java, Firebase Realtime Database |
 
 ### 🛠 Tech Stack
@@ -99,7 +96,10 @@ Engineering student at ISGA (Morocco), specializing in Artificial Intelligence &
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=josmolechacal&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=josmolechacal&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+|![](https://github-contributor-stats.vercel.app/api?username=josmolechacal&limit=5&theme=cobalt&combine_all_yearly_contributions=true)|
+| [**FaceAttend**](https://github.com/derrickonine/attend) | Real-time facial recognition attendance app for a school | Contributor — camera pipeline, recognition thresholds & matching distances | YOLOv8, OpenCV, Flask, SQLite |
+| [**FaceGuard**](https://github.com/TsioryRasoloarijaona/fake-guard) | Fake news detection platform (AI microservice + MVC app) | Contributor — Cassandra data model, Repository/Unit of Work layer | ASP.NET MVC, Apache Cassandra, Python/Flask |
+| [**Aracana AI**](https://github.com/williamsassa/Aracana) | Space-themed site with interactive 3D animations | Contributor — frontend, design & UX | Next.js, Three.js, Spline |
 
 ### 🌐 Connect
 
