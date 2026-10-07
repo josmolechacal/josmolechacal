@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="ISGA banner — Building Solutions, Creating Impact" width="100%" />
+  <img src="./assets/bannerlinkedin.png" alt="ISGA banner — Building Solutions, Creating Impact" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm José Antoine Roland KOUADJO </h1>
